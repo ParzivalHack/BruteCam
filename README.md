@@ -3,6 +3,8 @@
 </p>
 <p align="center">
 <a href="https://bit.ly/3bgtjYk"><img title="Tool" src="https://img.shields.io/badge/Tool-Brutecam-green.svg?style=flat-square"></a>
+</p>
+<p align="center">
 <a href="https://bit.ly/3bgtjYk"><img title="Version" src="https://img.shields.io/badge/Version-1-green.svg?style=flat-square"></a>
 </p>
 <p align="center">
