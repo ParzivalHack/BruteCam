@@ -17,7 +17,7 @@
 
 ## ABOUT TOOL :
 
-This tool generates, thanks to his massive database, a series of links, sorted by country, to get access to unprotected and unfiltered CTV Cameras👀
+This tool generates, thanks to his massive database, a series of links, sorted by country, to get access via bruteforce, to unprotected and unfiltered CTV Cameras👀
 
 ### TESTED ON :
 
