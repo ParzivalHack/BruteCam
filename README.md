@@ -6,7 +6,7 @@
 <a href="https://bit.ly/3bgtjYk"><img title="Version" src="https://img.shields.io/badge/Version-1-green.svg?style=flat-square"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ParzivalHack"><img title="Github" src="https://img.shields.io/badge/ParzivalHack-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ParzivalHack"><img title="Github" src="https://img.shields.io/badge/ParzivalHack-black?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
